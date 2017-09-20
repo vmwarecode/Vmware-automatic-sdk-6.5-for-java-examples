@@ -1,1 +1,0 @@
-# Vmware-automatic-sdk-6.5-for-java-examples
