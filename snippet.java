@@ -1,4 +1,3 @@
-
 BasicConnection connection = new BasicConnection();
 connection.setUrl(url);
 connection.setUsername(userName);
